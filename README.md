@@ -5,7 +5,7 @@ YouTube video downloader in pure JavaScript.
 ## Installation
 
 ```bash
-npm install ytdl-core
+npm install https://github.com/natsu-dev01/ytdl-core.git
 ```
 
 ## Usage
